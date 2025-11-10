@@ -1,1 +1,1 @@
-print("nik mok ya bob")
+print("nik doublement mok ya bob")

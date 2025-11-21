@@ -1,3 +1,4 @@
+
 import sys
 import pygame
 from menu import *            # écrans de menu / options / découverte
@@ -100,5 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
